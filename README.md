@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently employed at [Revolt Games](https://www.revoltgames.io/) and working on [Neopolis](https://www.neopolis.io/) 2019 - today
+- 🔭 I’m currently employed at [Revolt Games](https://www.revoltgames.io/) and working on [Neopolis](https://www.neopolis.io/) 2020 - today
 - 🚀 I am the creator of [Project Orion](https://projectorion.app) 2025 - today
 - 🌱 I’m learning **Godot, Blender** for game development
 - 📚 I studied at [42](https://42.fr/en/homepage/) 2018 - 2020
