@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm Nathan</h1>
 <p align="center">I’m a curious developer, driven by continuous learning and crafting practical solutions to problems I wouldn’t have encountered if I weren’t a developer.</p>
 
-
-
-- 🔭 I’m currently employed at [Revolt Games](https://www.revoltgames.io/) and working on [Neopolis](https://www.neopolis.io/) 2020 - today
+- Working on my own game [Retropolis](https://www.retropolisgame.com)
+- 🛡️ Currently employed at [Stormshield](https://www.stormshield.com/) in the cybersecurity R&D department
+- 🔭 I’m a former employee of [Revolt Games](https://www.revoltgames.io/) and worked on [Neopolis](https://www.neopolis.io/) for five years.
 - 🚀 I am the creator of [Project Orion](https://projectorion.app) 2025 - today
 - 🌱 I’m learning **Godot, Blender** for game development
 - 📚 I studied at [42](https://42.fr/en/homepage/) 2018 - 2020
