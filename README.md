@@ -7,7 +7,6 @@
 - 🛡️ Currently employed at [Stormshield](https://www.stormshield.com/) in the cybersecurity R&D department
 - 🔭 I’m a former employee of [Revolt Games](https://www.revoltgames.io/) and worked on [Neopolis](https://www.neopolis.io/) for five years.
 - 🚀 I am the creator of [Project Orion](https://projectorion.app) 2025 - today
-- 🌱 I’m learning **Godot, Blender** for game development
 - 📚 I studied at [42](https://42.fr/en/homepage/) 2018 - 2020
 - 📄 Know about my experiences on [Linkedin](https://www.linkedin.com/in/nathan-plouvier-77ba29141/)
 - ⚡ Fun fact **I have a degree in anthropology**
